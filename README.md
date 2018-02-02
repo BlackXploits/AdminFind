@@ -1,5 +1,5 @@
 # AdminFind1
-Admin Finder v1.0
+Admin Finder v1.3
 
 ### Usage
 ```
