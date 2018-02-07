@@ -50,7 +50,7 @@ if jembut=="love":
           print b+"/_/  |_\__,_/_/   /_/_/ /_/\__,_/   "
           print b+"                                      "
 
-          slowprint (o+"                   c0ded by FreakzSec")
+          slowprint (o+"                c0ded by blackXploits")
 
           print w+'                                                      '
 
