@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# c0ded by FreakzSec
+# c0ded by blackXploits
 
 # Admin finder v.1.3 / 1736 admin panel scan /
 
