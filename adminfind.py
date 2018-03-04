@@ -31,7 +31,7 @@ jembut = "love"
 
 if jembut=="love":
 
-          print r+"        admin finder v.1.3       "
+          print r+"        admin finder v1.3       "
 
           print   "                                 "
           print b+"    ___       __          _       _______           __"
