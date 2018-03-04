@@ -1,25 +1,16 @@
 #!/usr/bin/python
-
 # c0ded by blackXploits
-
 # Admin finder v.1.3 / 1759 admin panel scan /
 
 w  = '\033[0m'
-
 r  = '\033[31m'
-
 g  = '\033[32m'
-
 o  = '\033[33m'
-
 b  = '\033[34m'
 
 import sys
-
 import time
-
 import httplib
-
 import os
 
 os.system("clear")
