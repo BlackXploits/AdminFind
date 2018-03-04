@@ -22,7 +22,7 @@ import httplib
 
 import os
 
-
+os.system("clear")
 
 def slowprint(s):
 
