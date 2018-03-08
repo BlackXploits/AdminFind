@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # c0ded by blackXploits
-# Admin finder v.1.3 / 1759 admin panel scan /
+# Admin finder v1.0 / 1759 admin panel scan /
 
 w  = '\033[0m'
 r  = '\033[31m'
@@ -31,7 +31,7 @@ jembut = "love"
 
 if jembut=="love":
 
-          print r+"        admin finder v1.3       "
+          print r+"        admin finder v1.0       "
 
           print   "                                 "
           print b+"    ___       __          _       _______           __"
