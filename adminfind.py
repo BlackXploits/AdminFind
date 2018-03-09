@@ -16,13 +16,9 @@ o  = '\033[33m'
 b  = '\033[34m'
 
 def slowprint(s):
-
     for c in s + '\n':
-
         sys.stdout.write(c)
-
         sys.stdout.flush()
-
         time.sleep(8./90)
 
 
@@ -31,15 +27,15 @@ jembut = "love"
 
 if jembut=="love":
 
-          print r+"        admin finder v1.3       "
+          print r+"                admin finder v1.3       "
 
           print   "                                 "
-          print b+"    ___       _________           __"
-          print b+"   /   | ____/ / ____(_)___  ____/ /"
-          print b+"  / /| |/ __  / /_  / / __ \/ __  / "
-          print b+" / ___ / /_/ / __/ / / / / / /_/ /  "
-          print b+"/_/  |_\__,_/_/   /_/_/ /_/\__,_/   "
-          print b+"                                      "
+          print b+"    ___       __          _       _______           __"
+          print b+"   /   | ____/ /___ ___  (_)___  / ____(_)___  ____/ /"
+          print b+"  / /| |/ __  / __ `__ \/ / __ \/ /_  / / __ \/ __  / "
+          print b+" / ___ / /_/ / / / / / / / / / / __/ / / / / / /_/ /  "
+          print b+"/_/  |_\__,_/_/ /_/ /_/_/_/ /_/_/   /_/_/ /_/\__,_/   "
+          print"                                                 "
 
           slowprint (o+"c0ded by blackXploits")
 
