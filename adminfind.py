@@ -15,8 +15,6 @@ g  = '\033[32m'
 o  = '\033[33m'
 b  = '\033[34m'
 
-os.system("clear")
-
 def slowprint(s):
 
     for c in s + '\n':
@@ -33,15 +31,15 @@ jembut = "love"
 
 if jembut=="love":
 
-          print r+"         admin finder v1.3       "
+          print r+"        admin finder v1.3       "
 
           print   "                                 "
-          print b+"    ___       __          _       _______           __"
-          print b+"   /   | ____/ /___ ___  (_)___  / ____(_)___  ____/ /"
-          print b+"  / /| |/ __  / __ `__ \/ / __ \/ /_  / / __ \/ __  / "
-          print b+" / ___ / /_/ / / / / / / / / / / __/ / / / / / /_/ /  "
-          print b+"/_/  |_\__,_/_/ /_/ /_/_/_/ /_/_/   /_/_/ /_/\__,_/   "
-          print"                                                 "
+          print b+"    ___       _________           __"
+          print b+"   /   | ____/ / ____(_)___  ____/ /"
+          print b+"  / /| |/ __  / /_  / / __ \/ __  / "
+          print b+" / ___ / /_/ / __/ / / / / / /_/ /  "
+          print b+"/_/  |_\__,_/_/   /_/_/ /_/\__,_/   "
+          print b+"                                      "
 
           slowprint (o+"c0ded by blackXploits")
 
@@ -79,20 +77,20 @@ try:
 
         admin = '/' + admin
 
-        jembut = httplib.HTTPConnection(site)
+        jembutz = httplib.HTTPConnection(site)
 
-        jembut.request('GET',admin)
+        jembutz.request('GET',admin)
 
-        jembut = jembut.getresponse()
+        jembutz = jembutz.getresponse()
 
-        print '%s %s %s' % (admin, jembut.status, jembut.reason)
+        print '%s %s %s' % (admin, jembutz.status, jembutz.reason)
 
-        if jembut.status == 200:
+        if jembutz.status == 200:
 
-                        raw_input = (g+"[*]"+w+"FOUND !.\n" +w)
+                        raw_input(g+"[*] Loginnya disini bosQ, Lanjut? tekan ENTER .\n" +w)
 
 
 
 except (KeyboardInterrupt, SystemExit):
 
-    print r+'\n[!]'+w+'Exit !'
+    print w+'[!]'+w+'Exit !'
