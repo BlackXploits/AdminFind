@@ -89,4 +89,4 @@ try:
 
 except (KeyboardInterrupt, SystemExit):
 
-    print w+'[!]'+w+'Exit !'
+    print r+'[!]'+w+'Exit !'
