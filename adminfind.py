@@ -1,8 +1,7 @@
 #!/usr/bin/python
+# c0ded by blackXploits
 # Admin finder v1.3 / 1759 admin panel scan /
-# Author: blackXploits
 # GitHub: https://github.com/blackXploits
-# Facebook: https://www.facebook.com/blackxploits1337
 # Please don't delete this copyright
 
 import sys
@@ -38,7 +37,8 @@ if jembut=="love":
           print b+" / ___ / /_/ / / / / / / / / / / __/ / / / / / /_/ /  "
           print b+"/_/  |_\__,_/_/ /_/ /_/_/_/ /_/_/   /_/_/ /_/\__,_/   "
           slowprint (o+"c0ded by blackXploits")
-          print y+"\n   site example: www.site.co.li"
+          print b+"\n     [*]"+w+" Don't use 'http://' and '/' at the end of the site"
+          print y+"     example: www.site.co.li"
           print w
 
 site = raw_input(">> Site: ")
