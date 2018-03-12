@@ -1,4 +1,4 @@
-# AdminFind1
+# AdminFind
 Admin Finder v1.3
 
 ### Usage
