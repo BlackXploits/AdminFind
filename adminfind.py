@@ -10,6 +10,7 @@ import httplib
 import os
 
 w  = '\033[0m'
+y  = '\033[93m'
 r  = '\033[31m'
 g  = '\033[32m'
 o  = '\033[33m'
@@ -35,11 +36,9 @@ if jembut=="love":
           print b+"  / /| |/ __  / __ `__ \/ / __ \/ /_  / / __ \/ __  / "
           print b+" / ___ / /_/ / / / / / / / / / / __/ / / / / / /_/ /  "
           print b+"/_/  |_\__,_/_/ /_/ /_/_/_/ /_/_/   /_/_/ /_/\__,_/   "
-          print"                                                 "
-
           slowprint (o+"c0ded by blackXploits")
-
-          print w+'                                                      '
+          print y+"\n   site example: www.site.co.li"
+          print w
 
 site = raw_input(">> Site: ")
 
@@ -83,10 +82,7 @@ try:
 
         if jembutz.status == 200:
 
-                        raw_input(g+"[*] Loginnya disini bosQ, Lanjut? tekan ENTER .\n" +w)
+            raw_input(g+"[*]"+w+"Found! do u want to continue scan?[ENTER] "+w)
 
-
-
-except (KeyboardInterrupt, SystemExit):
-
-    print r+'[!]'+w+'Exit !'
+except(KeyboardInterrupt, SystemExit):
+   print r+"\n[!]"+w+"Exit!"
