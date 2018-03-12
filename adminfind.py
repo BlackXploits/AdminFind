@@ -1,7 +1,8 @@
 #!/usr/bin/python
-# c0ded by blackXploits
 # Admin finder v1.3 / 1759 admin panel scan /
+# Author: blackXploits
 # GitHub: https://github.com/blackXploits
+# Facebook: https://www.facebook.com/blackxploits1337
 # Please don't delete this copyright
 
 import sys
