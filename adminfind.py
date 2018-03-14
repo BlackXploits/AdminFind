@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# c0ded by blackXploits
+# Author: blackXploits
 # Admin finder v1.3 / 1759 admin panel scan /
 # GitHub: https://github.com/blackXploits
 # Please don't delete this copyright
