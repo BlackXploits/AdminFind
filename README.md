@@ -1,6 +1,6 @@
 # AdminFind
 Admin Finder v1.3
-* Fast Sacan
+* Fast Scan
 * Simple
 * 1766 Admin Panel Scan
 
