@@ -1,5 +1,8 @@
 # AdminFind
 Admin Finder v1.3
+* Fast Sacan
+* Simple
+* 1766 Admin Panel Scan
 
 ### Usage
 ```
