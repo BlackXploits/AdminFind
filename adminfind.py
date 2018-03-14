@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Author: blackXploits
-# Admin finder v1.3 / 1759 admin panel scan /
+# Admin finder v1.3 / 1766 admin panel scan /
 # GitHub: https://github.com/blackXploits
 # Please don't delete this copyright
 
