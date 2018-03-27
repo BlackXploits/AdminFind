@@ -1,8 +1,9 @@
 #!/usr/bin/python
-# Author: blackXploits
+# Author: ©BlackXploits
 # Admin finder v1.3 / 1760 admin panel scan /
-# GitHub: https://github.com/blackXploits
-# Please don't delete this copyright
+# Telegram: @BlackXploits
+
+# Please don't delete this © COPYRIGHT !!
 
 import sys
 import time
@@ -36,7 +37,7 @@ if jembut=="love":
           print b+"  / /| |/ __  / __ `__ \/ / __ \/ /_  / / __ \/ __  / "
           print b+" / ___ / /_/ / / / / / / / / / / __/ / / / / / /_/ /  "
           print b+"/_/  |_\__,_/_/ /_/ /_/_/_/ /_/_/   /_/_/ /_/\__,_/   "
-          slowprint (o+"c0ded by blackXploits")
+          slowprint (o+"c0ded by BlackXploits")
           print b+"\n     [*]"+w+" Don't use 'http://' and '/' at the end of the site"
           print y+"     example: www.site.co.li"
           print w
