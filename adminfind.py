@@ -1,9 +1,9 @@
 #!/usr/bin/python
-# Author: ©BlackXploits
+# Author: BlackXploits
 # Admin finder v1.3 / 1760 admin panel scan /
 # Telegram: @BlackXploits
 
-# Please don't delete this © COPYRIGHT !!
+# Please don't delete this COPYRIGHT
 
 import sys
 import time
