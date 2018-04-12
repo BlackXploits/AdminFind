@@ -1,9 +1,6 @@
 #!/usr/bin/python
 # Author: BlackXploits
 # Admin finder v1.3 / 1760 admin panel scan /
-# Telegram: @BlackXploits
-
-# Please don't delete this COPYRIGHT
 
 import sys
 import time
@@ -23,7 +20,7 @@ def slowprint(s):
         sys.stdout.flush()
         time.sleep(8./90)
 
-
+os.system('clear')
 
 jembut = "love"
 
