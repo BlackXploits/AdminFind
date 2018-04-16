@@ -81,7 +81,7 @@ try:
 
         if jembutz.status == 200:
 
-            raw_input(g+"[*]"+w+"Found! do u want to continue scan?[ENTER] "+w)
+            raw_input(g+"[*]"+w+" Found! do u want to continue scan?[ENTER] "+w)
 
 except(KeyboardInterrupt, SystemExit):
    print r+"\n[!]"+w+" Exit!"
