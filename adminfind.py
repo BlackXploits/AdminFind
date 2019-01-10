@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python2
 # Author: BlackXploits
 # Admin finder v1.3 / 1760 admin panel scan /
 
